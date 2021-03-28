@@ -19,6 +19,9 @@ public class RandomStringChooser {
         return "NONE";
     }
 
+    /**
+     * Used for testing
+     */
     public static void main(String[] args) throws Exception {
         String[] wordArray = {"wheels", "on", "the", "bus"};
         List<String> asList = Arrays.asList(wordArray);
