@@ -1,4 +1,4 @@
-package Y2015;
+package Y2015.FRQ1;
 
 public class DiverseArray {
     /**

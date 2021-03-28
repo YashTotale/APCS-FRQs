@@ -1,4 +1,4 @@
-package Y2015;
+package Y2015.FRQ2;
 
 public class HiddenWord {
     private final String word;

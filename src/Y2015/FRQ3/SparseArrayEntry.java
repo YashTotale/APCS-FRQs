@@ -1,4 +1,4 @@
-package Y2015.SparseArray;
+package Y2015.FRQ3;
 
 public class SparseArrayEntry {
     /**
